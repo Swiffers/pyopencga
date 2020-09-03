@@ -28,7 +28,6 @@ setup(
         'Intended Audience :: Developers',
         'Topic :: Scientific/Engineering :: Bio-Informatics',
         'License :: OSI Approved :: Apache Software License',
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.5',
     ],
@@ -36,7 +35,6 @@ setup(
     install_requires=[
         'requests >= 2.7',
         'pip >= 7.1.2',
-        'pathlib >= 1.0.1',
         'pyyaml >= 3.12'
     ],
     project_urls={
